@@ -65,7 +65,7 @@ heart.csv – Dataset used for training and testing the model
 
 ### 1 Clone the Repository
 
-git clone https://github.com/Areefbaba/HEART-DISEASE-PREDICTION
+https://github.com/angirekulamanikumar/HEART-DISEASE-PREDICTION
 
 ### 2 Navigate to Project Folder
 
@@ -91,4 +91,4 @@ The machine learning model analyzes medical attributes and predicts whether a pa
 
 ## Author
 
-Areefbaba
+Mani kumar
